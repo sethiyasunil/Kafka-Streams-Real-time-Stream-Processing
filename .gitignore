@@ -10,3 +10,9 @@
 
 # Leave target directory
 */target/*
+
+*/.classpath
+*/.factorypath
+*/.sts4-cache/
+*/.settings
+*/.project
